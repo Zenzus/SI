@@ -1,2 +1,2 @@
 # SI
-(fire.jpg)
+(/fire.jpg)
