@@ -1,2 +1,2 @@
 # SI
-(/fire.png)
+(fire.png)
